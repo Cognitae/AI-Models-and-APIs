@@ -1,5 +1,4 @@
-
-Certainly! Below is a concise README template you can use to explain how to modify your Modelfile.txt to configure the model settings, including changing the model, adjusting parameters, and defining the system prompt. This README can be added to your GitHub repository to guide users on customizing the model file to suit their needs.
+Read Me
 ________________________________________
 Model Configuration Guide
 This guide provides instructions on how to customize the Modelfile.txt for altering the behavior of the AI model in our application. You can adjust various settings, such as the model type, generation parameters, and the system prompt, to tailor the model's responses according to your requirements.
