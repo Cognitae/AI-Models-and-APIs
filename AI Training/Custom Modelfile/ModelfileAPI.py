@@ -34,7 +34,7 @@ def load_model_file(model_file_path):
     
     return params, system_prompt
 
-model_file_path = "C:\\Users\\ablack\\Documents\\GitHub\\AI Training\\Custom Modelfile\\Modelfile.txt"
+model_file_path = "C:\\YOUR-FILE-PATH-HERE\\Modelfile.txt"
 
 # Load the model parameters and system prompt
 model_params, system_prompt = load_model_file(model_file_path)
